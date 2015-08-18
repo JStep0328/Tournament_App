@@ -1,5 +1,6 @@
 # Tournament_App
-Six Team Double Elimination Tournament with first round byes
+
+Six Team Double Elimination Tournament with first round byes using shinyapps.io
 
 Used the following repo as a starting point for creating a bracket
 https://github.com/zachmayer/kaggleNCAA
